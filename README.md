@@ -16,11 +16,12 @@ If you need help with RoboScript, check out the [programming mechanic](https://g
 ## Images
 
 <div align="center">
-    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image 4" width="256">
-    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image 4" width="256">
-    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image 4" width="256">
-    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image 4" width="256">
-
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
+    <img src="https://i.imgur.com/E6u04LW.jpeg" alt "Image" width="256">
 </div>
 
 ## Discord
