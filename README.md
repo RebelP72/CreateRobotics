@@ -3,6 +3,7 @@
 ![Logo](https://raw.githubusercontent.com/Worker20/CreateRobotics-1.18/master/icon.png)
 
 <div align="center">
+    https://discord.gg/PbBt4PQhpe
     [![Discord](https://img.shields.io/discord/865321790347018241?color=5865f2&label=Discord&style=flat)](https://discord.gg/PbBt4PQhpe)
 </div>
 
