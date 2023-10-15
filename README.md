@@ -22,7 +22,3 @@ If you need help with RoboScript, check out the [programming mechanic](https://g
     <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt "Image 4" width="256">
 </div>
 
-## Discord
-
-Join our Discord community:
-
