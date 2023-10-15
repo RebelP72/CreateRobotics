@@ -1,7 +1,7 @@
 # Create Robotics
 
 ![Logo](https://raw.githubusercontent.com/Worker20/CreateRobotics-1.18/master/icon.png)
-
+[![Discord Banner](https://discordapp.com/api/guilds/865321790347018241/widget.png?style=banner3)](https://discord.com/invite/create-robotics)
 [![Loader - Forge](https://img.shields.io/badge/Loader-Forge-orange?style=flat&logo=curseforge)](https://files.minecraftforge.net/)
 [![Discord](https://img.shields.io/discord/865321790347018241?color=5865f2&label=Discord&style=flat)](https://discord.gg/PbBt4PQhpe)
 
@@ -26,4 +26,3 @@ If you need help with RoboScript, check out the [programming mechanic](https://g
 
 Join our Discord community:
 
-[![Discord Banner](https://discordapp.com/api/guilds/865321790347018241/widget.png?style=banner3)](https://discord.com/invite/create-robotics)
