@@ -3,11 +3,10 @@
 ![Logo](https://raw.githubusercontent.com/Worker20/CreateRobotics-1.18/master/icon.png)
 
 <div align="center">
-    https://discord.gg/PbBt4PQhpe
-    [![Discord](https://img.shields.io/discord/865321790347018241?color=5865f2&label=Discord&style=flat)](https://discord.gg/PbBt4PQhpe)
+  [![Discord](https://img.shields.io/discord/865321790347018241?color=5865f2&label=Discord&style=flat)](https://discord.gg/PbBt4PQhpe)
 </div>
 
-[![Loader - Forge](https://img.shields.io/badge/Loader-Forge-orange?style=flat&logo=curseforge)](https://files.minecraftforge.net/)
+[![Loader - Forge](https://img.shields.io/badge/Loader-Forge-orange?style=flat&logo=curseforge)](https://files.minecraftforge.net)
 
 ## Description
 
@@ -20,10 +19,10 @@ If you need help with RoboScript, check out the [programming mechanic](https://g
 ## Images
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1" width="256">
-    <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2" width="256">
-    <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 3" width="256">
-    <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt "Image 4" width="256">
+  <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1" width="256">
+  <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2" width="256">
+  <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 3" width="256">
+  <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 4" width="256">
 </div>
 
 ## Discord
