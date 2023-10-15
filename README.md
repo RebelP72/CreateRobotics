@@ -47,12 +47,10 @@ A few main features are the, Drone, Clockcopter(Juan), Computers, And many more 
 If you need help with Roboscript you can look <a href="https://github.com/Worker20/CreateRobotics/wiki/Programming-Mechanic">here</a>. And if you want to test your code the Create Robotics discord has a channel for testing <a href="https://discord.com/invite/create-robotics">here</a>
 
 
-    <div class="image-grid">
-        <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1">
-        <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2">
-        <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1">
-        <img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2">
-    </div>
+<img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1">
+<img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2">
+<img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149407389737554012/2023-09-07_12.13.42.png" alt="Image 1">
+<img src="https://cdn.discordapp.com/attachments/1070764462103072828/1149409923994755102/2023-09-07_12.24.07.png" alt="Image 2">
 
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec augue eget felis feugiat iaculis.</p>
 
